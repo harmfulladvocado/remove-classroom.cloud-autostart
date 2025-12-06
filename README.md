@@ -7,8 +7,6 @@ This repository automates the removal or disabling of classroom environments wit
 - **Automated Shutdown**: Automatically stops cloud-started classroom environments.
 - **Resource Cleanup**: Optionally removes associated resources such as disks, VMs, and storage.
 - **Configurable Policies**: Set custom rules and schedules for classroom removal.
-- **Notifications**: Send alerts or confirmations when classrooms are stopped or removed.
-- **Cloud Provider Support**: Works with popular cloud platforms (customization may be required).
 
 ## Usage
 
