@@ -4,10 +4,9 @@ This repository automates the removal or disabling of classroom environments wit
 
 ## Features
 
-- **Automated Shutdown**: Automatically stops cloud-started classroom environments.
-- **Resource Cleanup**: Optionally removes associated resources such as disks, VMs, and storage.
-- **Configurable Policies**: Set custom rules and schedules for classroom removal.
+- **Automated Shutdown**: Automatically stops cloud-started classroom environments
 
+  
 ## Usage
 
 1. Clone this repository:
@@ -17,16 +16,8 @@ This repository automates the removal or disabling of classroom environments wit
    cd remove-classroom.cloud-autostart
    ```
 
-2. Configure your cloud provider credentials and policies as described in the configuration section.
-
-3. Run the main automation script (see source code for details) to remove or disable autostart classrooms.
-
-## Configuration
-
-- Update config files or environment variables as needed.
-- Example settings include scheduling, resource targeting, safety controls, and notification preferences.
+2. Run the main automation script (see source code for details) to remove or disable autostart classrooms.
 
 ## Requirements
 
-- Supported languages and runtime environment (see repository code for specifics).
-- Cloud provider credentials with appropriate permissions.
+- Windows
