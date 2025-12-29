@@ -4,7 +4,7 @@ This repository automates the removal or disabling of classroom environments wit
 
 ## Features
 
-- **Automated Shutdown**: Automatically stops cloud-started classroom environments
+- **Removed Auto start**: Removes the auto start of classroom.cloud
 
   
 ## Usage
